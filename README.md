@@ -1,5 +1,6 @@
 ### My DevOps Practical Project Journey Season 2 Episode 2 
 
+![Web 1920 – 1](https://user-images.githubusercontent.com/56154525/200328243-b2e9e5df-0655-43fd-a8bb-7b90ce919fb1.png)
 
 
 in this simple DevOps Proect i will push my codes into this github repository and when theres a push or 
