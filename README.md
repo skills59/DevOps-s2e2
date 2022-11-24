@@ -17,9 +17,14 @@ in progress, will be up in a bit wish me luck
 
 # Project steps
 1- After pushing my codes into github
+
 2- i proceeded to lunch a linux EC2 machine on Amazon Web Services AWS
+
 3- created my Ansile server 
-4 - in progress Lol 
+
+4 - connect my Github woth ansible
+
+5- in Progress LOL
 
 i will update steps here one after the other once carried out ntil project is complete
 
