@@ -6,8 +6,8 @@
 ![Web 1920 – 1](https://user-images.githubusercontent.com/56154525/200328243-b2e9e5df-0655-43fd-a8bb-7b90ce919fb1.png)
 
 
-in this simple DevOps Proect i pushed a simple Default template of a Dotnet Core Application into my github repository connecting it to jenkins which makes any change  
-or push in the github repository trigger a build in jenkins which which then generates a Var file.
+in this simple DevOps Proect i pushed a simple Default template of a Dotnet Core Application into my github repository connecting it to jenkins where when any change  
+or push is made in the github repository, it triggers a build in jenkins which whill then generates a Var file.
  
 NOW, that var file will then be deployed into the EC2 and in the EC2 where we have a docker file which has a script for the script contain which will download a tomcat image from the docker hub and then copy the var file into the tomcat default directory and expose the port 8080
 
