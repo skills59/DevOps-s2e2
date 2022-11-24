@@ -7,13 +7,22 @@
 
 
 in this simple DevOps Proect i pushed a simple Default template of a Dotnet Core Application into my github repository connecting it to jenkins which makes any change  
-a push in the github repository trigger a build in jenkins which which then generates a Var file.
+or push in the github repository trigger a build in jenkins which which then generates a Var file.
  
-NOW, that var file will then be deployed into the EC2 and in the EC2 where we have a docker file which has a 
-script for the script contain which will download a tomcat image from the docker hub and then copy the var file 
-into the tomcat default directory and expose the port 8080
+NOW, that var file will then be deployed into the EC2 and in the EC2 where we have a docker file which has a script for the script contain which will download a tomcat image from the docker hub and then copy the var file into the tomcat default directory and expose the port 8080
 
 
 in progress, will be up in a bit wish me luck
 
-and happy learning with me.
+
+# Project steps
+1- After pushing my codes into github
+2- i proceeded to lunch a linux EC2 machine on Amazon Web Services AWS
+3- created my Ansile server 
+4 - in progress Lol 
+
+i will update steps here one after the other once carried out ntil project is complete
+
+
+
+Happy learning with me.
