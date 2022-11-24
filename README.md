@@ -20,7 +20,7 @@ in progress, will be up in a bit wish me luck
 
 2- i proceeded to lunch a linux EC2 machine on Amazon Web Services AWS
 
-3- created my Ansile server on the linux EC2
+3- created my Jenkins server on the linux EC2
 
 4 - connect my Github woth ansible
 
