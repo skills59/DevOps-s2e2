@@ -10,6 +10,7 @@ NOW, that var file will then be deployed into the EC2 and in the EC2 where we ha
 script for the script contain which will download a tomcat image from the docker hub and then copy the var file 
 into the tomcat default directory and expose the port 8080
 
-in progress wish me luck
+
+in progress, will be up in a bit wish me luck
 
 and happy learning with me.
