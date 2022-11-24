@@ -7,12 +7,11 @@
 
 
 in this simple DevOps Proect i pushed a simple Default template of a Dotnet Core Application into my github repository connecting it to jenkins where when any change  
-or push is made in the github repository, it triggers a build in jenkins which whill then generates a Var file.
- 
-NOW, that var file will then be deployed into the EC2 and in the EC2 where we have a docker file which has a script for the script contain which will download a tomcat image from the docker hub and then copy the var file into the tomcat default directory and expose the port 8080
+or push is made in the github repository, it triggers a build in jenkins. 
 
+NOW, im not perfect with this yet but i can already tell where its leading to, this project is in progress well see where it ends
 
-in progress, will be up in a bit wish me luck
+Happy learning with me
 
 
 # Project steps
