@@ -22,7 +22,7 @@ in progress, will be up in a bit wish me luck
 
 3- created my Jenkins server on the linux EC2
 
-4 - connect my Github woth ansible
+4 - connect my Github with jenkins
 
 5- in Progress LOL
 
