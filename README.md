@@ -8,11 +8,6 @@
 
 in this simple DevOps Proect i pushed a simple Default template of a Dotnet Core Application into my github repository connecting it to jenkins where when any change or push is made in the github repository, it triggers a build in jenkins. 
 
-NOW, im not perfect with this yet but i can already tell where its leading to, this project is in progress well see where it ends
-
-Happy learning with me
-
-
 # Project steps
 1- After pushing my codes into github
 
