@@ -60,8 +60,5 @@ this generates a jenkis user and password which you will use to proceed to set j
 
 5- in Progress LOL
 
-i will update steps here one after the other once carried out ntil project is complete
 
-
-
-Happy learning with me.
+Happy learning 
